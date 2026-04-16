@@ -1,6 +1,14 @@
-# Company Employee Dashboard
+# 🚀 Neural Network Dashboard
 
-This repository contains a Streamlit dashboard for managing company employee data.
+A futuristic sci-fi themed employee management system built with Streamlit and TinyDB.
+
+## Features
+
+- 🔐 **Neural Access Control**: Secure login with 10-digit employee ID codes
+- 🖥️ **Admin Control Matrix**: Comprehensive admin panel with system monitoring
+- 📊 **Performance Analytics**: Real-time neural performance analysis
+- 👥 **Multi-Role System**: Employee, Employer, HR, and Admin access levels
+- 🎨 **Sci-Fi UI Theme**: Immersive dark theme with neon accents
 
 ## Run locally
 
@@ -11,9 +19,16 @@ cd "c:\Users\rajas\OneDrive\Documents\document\prompt2026"
 
 ## Login credentials
 
-- Admin: `admin` / `admin123`
-- Employee: `employee` / `emp123`
-- Employer: `employer` / `emp123`
+Use 10-digit employee IDs as usernames:
+
+- **Admin**: `raj4320000` / `admin123`
+- **Alice Johnson (Employee)**: `raj4320001` / `alice123`
+- **Bob Smith (Employer)**: `raj4320002` / `bob123`
+- **Carol Williams (HR)**: `raj4320003` / `carol123`
+- **David Brown (Employer)**: `raj4320004` / `david123`
+- **Eve Davis (Employee)**: `raj4320005` / `eve123`
+
+New employees will be assigned sequential IDs like `raj4320006`, `raj4320007`, etc.
 
 ## Deploy to Streamlit Cloud
 
