@@ -1,0 +1,6 @@
+employee_id,name,department,position,classification,salary,hire_date,email,manager
+1,Alice Johnson,Engineering,Software Engineer,Full-time,75000,2020-01-15,alice.johnson@company.com,Bob Smith
+2,Bob Smith,Engineering,Engineering Manager,Full-time,95000,2018-03-10,bob.smith@company.com,
+3,Carol Williams,HR,HR Specialist,Part-time,45000,2021-06-20,carol.williams@company.com,David Brown
+4,David Brown,HR,HR Director,Full-time,85000,2015-09-05,david.brown@company.com,
+5,Eve Davis,Finance,Accountant,Contract,55000,2022-11-12,eve.davis@company.com,Frank Miller
