@@ -21,7 +21,7 @@ cd "c:\Users\rajas\OneDrive\Documents\document\prompt2026"
 
 Use 10-digit employee IDs as usernames:
 
-- **Admin**: `raj4320000` / `admin123`
+
 - **Alice Johnson (Employee)**: `raj4320001` / `alice123`
 - **Bob Smith (Employer)**: `raj4320002` / `bob123`
 - **Carol Williams (HR)**: `raj4320003` / `carol123`
